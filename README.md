@@ -1,3 +1,13 @@
+3. (참고) 배지(Badges) 추천
+README 최상단에 붙여서 전문성을 더해보세요.
+code
+Markdown
+![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
+![LangChain](https://img.shields.io/badge/LangChain-RAG-orange.svg)
+![OpenDART](https://img.shields.io/badge/Data-OpenDART-red.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
+
 # DARTalk
 🇰🇷 Korean Corporate Disclosure RAG System: OpenDART API, LangChain, Vector DB를 활용한 한국어 특화 금융 공시 질의응답 솔루션
 
@@ -15,11 +25,3 @@ Data: OpenDART API, PyDART
 LLM & RAG: LangChain, OpenAI GPT-4o / HyperCLOVA X, ChromaDB/Pinecone
 Backend: FastAPI, Python
 Frontend: Streamlit / React
-3. (참고) 배지(Badges) 추천
-README 최상단에 붙여서 전문성을 더해보세요.
-code
-Markdown
-![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
-![LangChain](https://img.shields.io/badge/LangChain-RAG-orange.svg)
-![OpenDART](https://img.shields.io/badge/Data-OpenDART-red.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
