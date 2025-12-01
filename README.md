@@ -1,7 +1,3 @@
-3. (참고) 배지(Badges) 추천
-README 최상단에 붙여서 전문성을 더해보세요.
-code
-Markdown
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![LangChain](https://img.shields.io/badge/LangChain-RAG-orange.svg)
 ![OpenDART](https://img.shields.io/badge/Data-OpenDART-red.svg)
